@@ -1,0 +1,12 @@
+{
+  "ng if": {
+    "prefix": "ngif",
+    "body": "",
+    "description": "ng if"
+  },
+  "ng for": {
+    "prefix": "ngfor",
+    "body": "",
+    "description": "ng for"
+  }
+}
